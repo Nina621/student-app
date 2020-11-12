@@ -1,2 +1,2 @@
 # student-app
-Treći dio završnog rada
+2.dio završnog
